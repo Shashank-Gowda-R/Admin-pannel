@@ -1,0 +1,45 @@
+.Product_details {
+    border: solid #ffffff 1px;
+    margin-left: 15%;
+    margin-right: 15%;
+    border-radius: 12px;
+    margin-bottom: 1%;
+    padding-left: 2%;
+    padding-right: 2%;
+    padding-top: -8px;
+    background-color: #ffffff;
+
+}
+
+.color {
+    background-color: #3C4048CC;
+    width: 80%;
+    margin: 0 10% 0 10%;
+}
+
+.int {
+    text-align: center;
+    letter-spacing: 0em;
+    color: #ffffff;
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 25px;
+    line-height: 38px;
+}
+
+.sub {
+    width: 246px;
+    height: 40px;
+    position: relative;
+    left: 40%;
+    margin-bottom: 10px;
+}
+
+.img1 {
+    border-radius: 0px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+    position: relative;
+    top:-20px;
+    left:750px;
+}
